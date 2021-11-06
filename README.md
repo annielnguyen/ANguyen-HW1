@@ -14,7 +14,7 @@
 
 * Added aside tag to benefits section 
 
-* ![Webpage Screenshot1](./Develop/assets/images/horiseon1.png)
-![Webpage Screenshot2](./Develop/assets/images/Horiseon2.png)
+* ![Webpage Screenshot1](./assets/images/horiseon1.png)
+![Webpage Screenshot2](./assets/images/Horiseon2.png)
 
 
